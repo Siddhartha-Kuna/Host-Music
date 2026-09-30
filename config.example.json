@@ -1,0 +1,9 @@
+{
+  "DISCORD_TOKEN": "your-discord-bot-token-here",
+  "MUSIC_BASE_PATH": "/mnt/data/Music",
+  "REQUEST_CHANNEL": "request-song",
+  "STATUS_CHANNEL": "download-status",
+  "NAVIDROME_URL": "http://your-navidrome-host:4533",
+  "NAVIDROME_USER": "your-navidrome-username",
+  "NAVIDROME_PASS": "your-navidrome-password"
+}

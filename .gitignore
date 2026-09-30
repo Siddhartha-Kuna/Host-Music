@@ -1,0 +1,13 @@
+# Secrets — never commit
+config.json
+
+# Dependencies (regenerated from package.json)
+node_modules/
+
+# Old backups and test files
+bot.js.bak*
+test_meta.spotdl
+
+# OS/editor junk
+.DS_Store
+*.swp
